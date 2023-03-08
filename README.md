@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Merlène SAUNIER
 - 👀 I’m interested in mark-recaptured data analysis
-- 🌱 I’m currently learning mark-recaptured data analysis with bayesian method on Nimble
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on mIBA
 - 📫 How to reach me : merlene.saunier@univ-reunion.fr
 
 <!---
