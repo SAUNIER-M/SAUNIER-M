@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Merlène SAUNIER
-- 👀 I’m interested in mark-recaptured data and tarckin analysis
-- 🐣 I’m currently working on mIBA on the western indian ocean
+- 👀 I’m interested in mark-recaptured and tracking analysis
+- 🐣 I’m currently working on mIBA in the tropical western Indian ocean
 - 📫 How to reach me : merlene.saunier@univ-reunion.fr
 
 <!---
