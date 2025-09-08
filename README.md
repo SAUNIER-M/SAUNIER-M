@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Merlène SAUNIER
 - 👀 I’m interested in mark-recaptured and tracking analysis
-- 🐣 I’m currently working on mIBA in the tropical western Indian ocean
+- ✨ I'm currently working on differential equations to model multispecies food webs.
 - 📫 How to reach me : merlene.saunier@univ-reunion.fr
 
 <!---
